@@ -1,0 +1,147 @@
+.w_95 {
+    width: 95%;
+}
+
+.h_95 {
+    height: 95%;
+}
+
+.bg_blue {
+    background-color: #5C38F5;
+}
+
+.w_box {
+    width: 814px;
+}
+
+.h_box {
+    height: 81px;
+}
+
+.ms_box {
+    margin-left: 115.28px;
+}
+
+.mt_box {
+    margin-top: 99.2px;
+}
+
+.w_inside_box {
+    width: 346px;
+}
+
+.w_house {
+    width: 44px;
+}
+
+.h_house {
+    height: 44px;
+}
+
+.h_100 {
+    height: 100%;
+}
+
+.w_text_box {
+    width: 246px;
+}
+
+.h_text_box {
+    height: 49px;
+}
+
+.b_10 {
+    border-radius: 10px;
+}
+
+.w_second_box {
+    width: 436px;
+}
+
+.t_w_box {
+    width: 727.81px;
+}
+
+.t_h_box {
+    height: 60%;
+}
+
+.ms_t_box {
+    margin-left: 115.28px;
+}
+
+.mt_t_box {
+    margin-top: 60px;
+}
+
+.text_size {
+    font-size: 120px;
+}
+
+.text_family {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ms_t_text {
+    margin-left: 10px;
+}
+
+.h_big_text {
+    height: 20%;
+}
+
+.text_second_size {
+    font-size: 40px;
+}
+
+.mt_little_text {
+    margin-top: 30px;
+}
+
+.line_h {
+    line-height: 20px;
+}
+
+.mb_text {
+    margin-bottom: 0;
+}
+
+.ml_button_Text {
+    margin-left: 10px;
+}
+
+.h_button {
+    height: 50px;
+}
+
+.w_button {
+    width: 32%;
+}
+
+.mt_button {
+    margin-top: 55px;
+}
+
+.text_button_size {
+    font-size: 30px;
+}
+
+.button_text_family {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.w_form {
+    width: 800px;
+}
+
+.w_form {
+    height: 600px;
+}
+
+.po_right {
+    right: 200px;
+}
+
+.po_top {
+    top: 250px;
+}
