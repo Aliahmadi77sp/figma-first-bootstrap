@@ -131,11 +131,11 @@
 }
 
 .w_form {
-    width: 800px;
+    width: 600px;
 }
 
-.w_form {
-    height: 600px;
+.h_form {
+    height: 500px;
 }
 
 .po_right {
@@ -143,5 +143,18 @@
 }
 
 .po_top {
-    top: 250px;
+    top: 330px;
 }
+.rotate{
+    transform: matrix(0.93, -0.38, 0.64, 0.77, 0, 0);
+}
+.h_form_sec{
+    height: 600px;
+}
+.po_top_sec{
+    top: 100px;
+}
+
+
+
+
