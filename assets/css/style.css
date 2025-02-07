@@ -143,16 +143,34 @@
 }
 
 .po_top {
-    top: 330px;
+    top: 200px;
 }
 .rotate{
     transform: matrix(0.93, -0.38, 0.64, 0.77, 0, 0);
 }
-.h_form_sec{
+.h_form_second{
     height: 600px;
 }
-.po_top_sec{
-    top: 100px;
+.po_top_second{
+    top: 340px;
+}
+.po_top_third{
+    top: 150px;
+}
+.po_right_second{
+    right: 360px;
+}
+.po_right_third{
+    right: 400px;
+}
+.border_r{
+    border-radius: 15px;
+}
+.border_h{
+    border: 5px solid black;
+}
+.box_shad{
+    box-shadow: 0 0 5px 3px rgba(0, 0, 255, 0.643);
 }
 
 
